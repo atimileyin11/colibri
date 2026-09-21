@@ -156,3 +156,7 @@ c/kimi_k3_tiny/.coli_usage
 c/qwen38_vision_tiny/
 c/qwen38_mm_tiny/
 c/qwen38_tiny_fp8/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
